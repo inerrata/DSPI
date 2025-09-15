@@ -1,0 +1,12 @@
+ifconfig.me: 87.212.150.240
+>>>ipconfig: 192.168.50.183
+
+the results change because the VPN provider routes my traffic through a remote server, which assigns its own IP address to my connection. this masks my real IP address, causing it to change.
+
+my IP is in the private address range since it is .50.183
+
+the geolocation of my IP is in Utrecht
+
+the first hub is my router in my room, and the last router is the google data center, which is located in Amsterdam
+
+
