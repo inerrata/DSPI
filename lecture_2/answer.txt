@@ -1,0 +1,15 @@
+77 6F 72 6C 64
+
+00001840
+
+62
+
+54
+
+absolutely nothing happened since changing the name doesn't actually change the file type. the file inherently is still a .txt document and will be opened by a text editor. furthermore, the bytes in the files are exactly the same as original; only the file name has changed, but the actual ASCII code remains unchanged so the size will too.
+
+when i try to change the contents, i am not allowed to save it, but rather i am being given the option to save it as another individual file.
+
+1. i have 1 ssd
+2. the model is an intel SSDPEKNW512G8H, with a capacity of 512GB, the read speed is up to 3100MB/S and write speed is up to 1500MB/S.
+3. i have a single C: drive.

@@ -1,0 +1,6 @@
+i have an intel i7-1065G7 with 4 cores and a base speed of 1.50GHz
+2. i have 2 sticks of Ramaxel, RMSA3260NA78HAF-2666, speed of 2667MHz and 16GB. 
+3. i have an nVidia MX250 with 2GB of VRAM.
+4. F.10 and never updated
+5. OS Boot Manager -> USB Flash Drive/USB Hard Disk -> USB CD/DVD ROM Drive -> Network Adapter
+6.3840x2160. portrait mode puts it vertically, and some may put in portrait mode to see more. putting it at 800x600 gives black borders and everything seems more zoomed in and at a lower quality.

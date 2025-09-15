@@ -1,0 +1,7 @@
+203 total running drivers
+
+The WiFi driver is called "Intel(R) Wireless-AC 9560 160MHz", there are two network adapters, called "Realtek PCIe/USB GbE Family Controller" and all of the drivers are found in C:\Windows\System32\DriverStore\FileRepository 
+
+It fluctuates between 0.1% and 0.5%, with 1% being the highest and 0% being 1% lows. It takes up around 1142.3MB of RAM.
+
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Brave.lnk" is where my browser is located.
